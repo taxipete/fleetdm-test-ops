@@ -9,9 +9,9 @@ queries:
     interval: 300
     observer_can_run: false
     automations_enabled: false
-    labels_include_any:
-      - Engineering
-      - Customer Support
+    # labels_include_any:
+    #   - Engineering
+    #   - Customer Support
 agent_options:
 controls:
 org_settings:
